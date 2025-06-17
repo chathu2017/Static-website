@@ -1,10 +1,7 @@
 {
   "networking": {
-    "ipRules": [
-      {
-        "address": "123.231.85.191/32",
-        "action": "Allow"
-      }
+    "allowedIpRanges": [
+      "123.231.85.191/32"
     ]
   }
 }
